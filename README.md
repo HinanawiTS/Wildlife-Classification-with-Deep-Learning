@@ -24,5 +24,5 @@ This repository contains a data set that is augmented by our team (Augmented.zip
 Please run all of our code in a cuda-enabled envirnoment since we are using GPU for computation.
 
 - The MLP_model.ipynb serves a first try on classifying the images. To run the MLP_model.ipynb, save the data set downloaded from kaggle to the directory animals/animals so under this directory we have 90 sub-directories for our different animals.
-
-- The Project.ipynb is where our most of models and experiments ran. Please extract the Augmented.zip to get the augmented data set and change the data root in the notebook (under "Load Dataset" module) so the root is point to your extracted data set under which has sub-directories for different animals.
+- Link to the dataset: https://drive.google.com/file/d/1OBu5znTCq0wseK4oersFblD7RUCShLdF/view?usp=sharing
+- The Project.ipynb is where our most of models and experiments ran. Please extract the processed.zip to the root directory to get the augmented data set and change the data root in the notebook (under "Load Dataset" module) so the root is point to your extracted data set under which has sub-directories for different animals.
