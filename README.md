@@ -7,9 +7,9 @@ in the directory of this repository.
 This project requires a data set that is augmented from the previous data set by our team (processed.zip). Please use the link provided in the "Instruction of Notebooks" section to download it to the local as this is a relatively large data set. Please extract the data directly in the directory of this repository.
 
 ### Project Team Members:
+- Zhexu Li, zhl411@ucsd.edu 
 - Yiheng Ye, yiy291@ucsd.edu
 - Andy Liu, anl043@ucsd.edu
-- Zhexu Li, zhl411@ucsd.edu
 
 ### Requirements:
 - python 3.9
